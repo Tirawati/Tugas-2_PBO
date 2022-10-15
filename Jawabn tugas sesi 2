@@ -1,0 +1,16 @@
+1.	Class adalah rancangan atau blue print dari sebuah objek, Sedangkan objek adalah sebuah variabel yang merupakan instance atau perwujudan dari Class.
+2.	Jenis-jenis method
+•	Kostruktor Adalah method yang dijalankan pada awal dijalankannya program.
+•	Setter method Digunakan object untuk mengubah data baik itu berupa variabel instan ataupun static.
+•	Getter methodKetika kita menginginkan tidak sembarang data dapat diakses oleh sembarang object, maka kita deklarasikan atribut kelas tersebut menggunakan private. 
+  Tetapi terkadang kita ingin object tertentu saja yang boleh mengakses atribut tersebut maka kita gunakan accessor method.
+
+3.	Penjelasan masing masing bagian
+1)	Pendeklarasian Komputer sebagai nama dari Class
+2)	Membuat variable dengan tipe data string dengan ekapsulasi private
+3)	Membuat method setter dengan parameter jenis dan merk untuk mengisi variable yang telah dibuat dengan menggunakan parameter
+4)	Membuat method getter dan menjadikan variable jenis_komputer sebagai kembalian
+5)	Membuat method getter dan menjadikan variable merk sebagai kembalian
+6)	Membuat object baru bernama mycom
+7)	Mengisi nilai variable pada object mycom menggunakan method setter setDataKomputer melalui dua parameter yang telah dibuat
+8)	Menampilkan pada layar.
